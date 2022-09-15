@@ -25,7 +25,13 @@ h1 {
     text-align: center;
 }
 
+/*lasagna-page*/
 
+h1.lasagna {
+    Color: Orange;
+    background-color: black;
+    text-align: center;
+}
 
 
 
