@@ -1,0 +1,35 @@
+/*lasagna-page*/
+
+
+div {
+    color:white;
+    background-color: black;
+
+}
+
+
+h1.lasagna {
+    color:orange;
+    background-color: black;
+
+}
+
+h3#lasagna1 {
+    color:orange;
+    background-color: black;
+    
+}
+
+/*CupNoodles-page*/
+
+div {
+    color:white;
+    background-color:black;
+
+}
+
+h1#CupNoodles1 {
+    color:orange;
+    background-color:black;
+    
+}
